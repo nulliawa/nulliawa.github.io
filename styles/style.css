@@ -1,0 +1,12 @@
+body {
+  width: 500px;
+  background-color: #0e0e0e;
+  color: white;
+  font-family: 'Consolas';
+}
+
+.quote {
+  background-color: #1a1a1a;
+  padding: 10px;
+  display: inline-block
+}
